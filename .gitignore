@@ -1,0 +1,7 @@
+# Executáveis e objetos gerados na compilação
+*.exe
+*.o
+agenda
+
+# Dados pessoais cadastrados ao usar o programa
+contatos.txt
