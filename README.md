@@ -152,6 +152,12 @@ Ideias para evoluir o projeto:
 
 ---
 
+## 📄 Licença
+
+Distribuído sob a licença MIT. Veja [LICENSE](LICENSE).
+
+---
+
 ## 👤 Autor
 
 **Mateus Patrício Pereira**
